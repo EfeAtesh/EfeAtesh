@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @EfeAtesh
 - 👀 I’m interested in Mobile Application development integrated with medical devices and AI
 - 📫 How to reach me https://www.linkedin.com/in/efeates/
-- Undergraduate Student in Biomedical and Computer Engineering
+- Undergraduate Student in Biomedical 
+- Graduated from Computer Engineering
 - You can check my published applications https://play.google.com/store/apps/developer?id=SensiStudio
