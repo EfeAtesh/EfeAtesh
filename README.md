@@ -5,6 +5,6 @@ I am currently majoring in Computer Engineering and BME ( Senior Student🥴 )
 - 📫 How to reach me: https://www.linkedin.com/in/efeates/
 - You will also find my mail and other etc.s at my linkedin page
 - You can check my published applications https://play.google.com/store/apps/developer?id=SensiStudio
-<!-- GitHub Readme Stats -->
-![Efe's GitHub stats](https://github-readme-stats.vercel.app/api?username=EfeAtesh&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EfeAtesh&layout=compact&theme=tokyonight)
+<!-- Streak / Activity -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EfeAtesh&theme=tokyonight)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=EfeAtesh&theme=react-dark)
