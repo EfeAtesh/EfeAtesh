@@ -1,5 +1,5 @@
   
-# 👋 Hi, I’m Efe Ateş
+# 👋 Greetings, I’m Efe 
 
 <!-- Streak / Activity -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EfeAtesh&theme=tokyonight)
