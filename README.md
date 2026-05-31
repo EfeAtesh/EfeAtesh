@@ -3,7 +3,7 @@
 
 <!-- Streak / Activity -->
 <div align="center">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EfeAtesh&theme=tokyonight)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EfeAtesh&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 
