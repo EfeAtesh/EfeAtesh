@@ -4,13 +4,11 @@
 <!-- Streak / Activity -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EfeAtesh&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=EfeAtesh.EfeAtesh)](https://github.com/EfeAtesh) [![LibreChat on Play](https://img.shields.io/badge/Play%20Store-SensiStudio-brightgreen?logo=google-play)](https://play.google.com/store/apps/developer?id=SensiStudio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efeates/)
 
 <br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EfeAtesh&theme=tokyonight)
 
 </div>
 
