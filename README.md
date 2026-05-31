@@ -3,18 +3,17 @@
 
 <!-- Streak / Activity -->
 <div align="center">
+<!-- Streak / Activity -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EfeAtesh&theme=tokyonight)
+<br/>
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=EfeAtesh.EfeAtesh)](https://github.com/EfeAtesh) [![LibreChat on Play](https://img.shields.io/badge/Play%20Store-SensiStudio-brightgreen?logo=google-play)](https://play.google.com/store/apps/developer?id=SensiStudio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efeates/)
 
-<br/>
 
-<!-- Streak / Activity -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EfeAtesh&theme=tokyonight)
 
 </div>
 
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=EfeAtesh.EfeAtesh)](https://github.com/EfeAtesh) [![LibreChat on Play](https://img.shields.io/badge/Play%20Store-SensiStudio-brightgreen?logo=google-play)](https://play.google.com/store/apps/developer?id=SensiStudio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efeates/)
 
 I do researches, ON-DEVICE AI and its solutions, currently majoring in Computer Engineering and BME ( Senior Student )
 
