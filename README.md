@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Efe%20Ateş&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=Embedded%20Systems%20%7C%20Mobile%20Dev%20%7C%20IoT&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Efe%20Ateş&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=Edge%20AI%20%7C%20SoftwareEngineering%20%7C%20Mobile%20Dev&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -25,11 +25,10 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently working on **NFC Potentiostat** systems
-- ⚡ Passionate about **embedded systems** & **IoT**
+- 🔭 Currently working on  systems
 - 📱 Published apps on **Google Play** as [SensiStudio](https://play.google.com/store/apps/developer?id=SensiStudio)
-- 🛠️ Love bridging **hardware ↔ software**
-- 💬 Ask me about **NFC, Embedded C, Android**
+- 🛠️ Passionate About Computer Science and Software Engineering
+- 💬 Ask me about **Kotlin Multiplatform, Application Development, On-device AI solutions, AI engineering, Hardware**
 
 </td>
 <td width="50%" valign="top">
