@@ -51,6 +51,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-8CC84B?style=flat-square&logo=freertos&logoColor=white)
 
 </td>
 </tr>
