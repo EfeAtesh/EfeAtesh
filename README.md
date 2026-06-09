@@ -29,6 +29,7 @@
 - 📱 Published apps on **Google Play** as [SensiStudio](https://play.google.com/store/apps/developer?id=SensiStudio)
 - 🛠️ Passionate About Computer Science and Software Engineering
 - 💬 Ask me about **Kotlin Multiplatform, Application Development, On-device AI solutions, AI engineering, Hardware**
+- Mail address: businessefeates@gmail.com
 
 </td>
 <td width="50%" valign="top">
