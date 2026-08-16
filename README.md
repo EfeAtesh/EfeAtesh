@@ -25,7 +25,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently working on my graduation project: Local ​AI-Agent assisted Fully NFC Powered Potentiostat
+- 🔭 Check my graduation project: https://efeatesh.github.io/NFCPotentiostatQuickGlance/
 - 📱 Published apps on **Google Play** as [SensiStudio](https://play.google.com/store/apps/developer?id=SensiStudio)
 - 🛠️ Passionate About Computer Science and Software Engineering
 - 💬 Ask me about **Kotlin Multiplatform, Application Development, On-device AI solutions, AI engineering, Hardware**
