@@ -1,98 +1,90 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Efe%20Ateş&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=Edge%20AI%20%7C%20SoftwareEngineering%20%7C%20Mobile%20Dev&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Efe%20Ateş&fontSize=56&fontColor=58a6ff&fontAlignY=35&desc=On-Device%20AI%20%7C%20Android%20Architecture%20%7C%20Embedded%20Systems&descSize=17&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=520&lines=Engineering+things+%F0%9F%94%A7;NFC+%E2%80%A2+Edge-AI+%E2%80%A2+Android+%F0%9F%93%B1;I+Like+coming+up+with+solutions+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=560&lines=On-Device+AI+%26+Local+LLMs+(Gemma+3)+%F0%9F%A7%A0;Android+Architecture+%E2%80%A2+Jetpack+Compose+%F0%9F%93%B1;Embedded+AFE+%E2%80%A2+STM32+%E2%80%A2+NFC+Harvesting+%E2%9A%A1;Published+Apps+on+Play+Store+(SensiStudio)+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Profile Views & Socials -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-efeates.com-0078D7?style=flat&logo=windows&logoColor=white)](https://efeatesh.github.io/)
+[![Play Store](https://img.shields.io/badge/Google_Play-SensiStudio-34A853?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=SensiStudio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Efe_Ateş-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efeates/)
+[![Email](https://img.shields.io/badge/Email-efeates3300%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:efeates3300@gmail.com)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=EfeAtesh.EfeAtesh)](https://github.com/EfeAtesh)
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=EfeAtesh.EfeAtesh)](https://github.com/EfeAtesh) [![LibreChat on Play](https://img.shields.io/badge/Play%20Store-SensiStudio-brightgreen?logo=google-play)](https://play.google.com/store/apps/developer?id=SensiStudio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efeates/)
 </div>
 
 ---
 
-<br/>
-
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
 ### 🧑‍💻 About Me
 
-- 🔭 Check my graduation project: https://efeatesh.github.io/NFCPotentiostatQuickGlance/
-- 📱 Published apps on **Google Play** as [SensiStudio](https://play.google.com/store/apps/developer?id=SensiStudio)
-- 🛠️ Passionate About Computer Science and Software Engineering
-- 💬 Ask me about **Kotlin Multiplatform, Application Development, On-device AI solutions, AI engineering, Hardware**
-- Mail address: efeates3300@gmail.com
+- 🚀 **On-Device AI & Mobile Engineer** building zero-cloud-latency, privacy-first Android applications and hardware integrations.
+- 🎓 **B.Sc. in Computer Engineering & Biomedical Engineering** (Ankara University, MÜDEK Accredited).
+- 💼 **Microsoft AI Innovators 2026 (AI Engineering Intern)** – Architected fully offline, enterprise-grade Local RAG solutions using Foundry.
+- 📱 Published **6+ production apps** on Google Play under [SensiStudio](https://play.google.com/store/apps/developer?id=SensiStudio).
+- 🔬 **Graduation Thesis:** Smartphone-powered, battery-free NFC Potentiostat (STM32 + ST25DV + Gemma 3 AI Agent, TÜBİTAK 2209-B Approved).
+- 🌐 **Interactive Case Studies:** [NFCPotentiostatQuickGlance](https://efeatesh.github.io/NFCPotentiostatQuickGlance/)
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-### 🛠️ Tech Stack
+### ⚡ Verified Tooling & Stack
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=xml&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Android](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6C00?style=flat-square&logo=autodesk&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51837?style=flat-square&logo=autodesk&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+- **On-Device AI:** Gemma 3 (1B/4B), MediaPipe LLM, Microsoft Foundry, Local RAG, TFLite, CMSIS-NN
+- **Mobile & Architecture:** Kotlin, Jetpack Compose, Coroutines & Flow, USB Host (CDC/FTDI), Material 3
+- **Embedded & Hardware:** STM32 (ARM Cortex-M), ESP32-C3, ST25DV NFC Mailbox, KiCad (4-Layer PCB), Fusion 360
+- **Systems & Native:** Modern C/C++ (C++17/20), Python, Qt 6 / QML Desktop, Git CI/CD
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
+
+### 🚀 Featured Highlights & Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4 align="center">🧠 Foundry Local RAG</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Microsoft-AI_Innovators_Internship-00A4EF?logo=microsoft" /><br/>
+        Enterprise offline local RAG system running 100% on-device with zero cloud telemetry.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">🔬 NFC Potentiostat (TÜBİTAK)</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Hardware-STM32_%2B_ST25DV-002B49" /><br/>
+        Battery-free electrochemical instrumentation powered by smartphone NFC energy harvesting.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">📱 Sensitify GO / Tranquile</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Google_Play-Live_Apps-34A853?logo=google-play" /><br/>
+        Real-time electrochemical plotting engine + on-device Gemma 3 guided meditation generator.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<!-- GitHub Stats -->
 <div align="center">
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Metrics
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EfeAtesh&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=EfeAtesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EfeAtesh&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-
-<br/>
-
----
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EfeAtesh&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=161b22)](https://github.com/EfeAtesh)
-
-</div>
-
----
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EfeAtesh/EfeAtesh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EfeAtesh/EfeAtesh/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/EfeAtesh/EfeAtesh/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:73daca,100:9ece6a&height=120&section=footer" alt="Footer wave" />
