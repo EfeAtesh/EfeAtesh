@@ -27,17 +27,17 @@
 
 ### 🧑‍💻 About Me
 
-- 🚀 **On-Device AI & Mobile Engineer** building zero-cloud-latency, privacy-first Android applications and hardware integrations.
-- 🎓 **B.Sc. in Computer Engineering & Biomedical Engineering** (Ankara University, MÜDEK Accredited).
-- 💼 **Microsoft AI Innovators 2026 (AI Engineering Intern)** – Architected fully offline, enterprise-grade Local RAG solutions using Foundry.
-- 📱 Published **6+ production apps** on Google Play under [SensiStudio](https://play.google.com/store/apps/developer?id=SensiStudio).
-- 🔬 **Graduation Thesis:** Smartphone-powered, battery-free NFC Potentiostat (STM32 + ST25DV + Gemma 3 AI Agent, TÜBİTAK 2209-B Approved).
-- 🌐 **Interactive Case Studies:** [NFCPotentiostatQuickGlance](https://efeatesh.github.io/NFCPotentiostatQuickGlance/)
+-  **On-Device AI & Mobile Engineer** building zero-cloud-latency, privacy-first Android applications and hardware integrations.
+-  **B.Sc. in Computer Engineering & Biomedical Engineering** (Ankara University, MÜDEK Accredited).
+-  **Microsoft AI Innovators 2026 (AI Engineering Intern)** – Architected fully offline, enterprise-grade Local RAG solutions using Foundry.
+-  Published **6+ production apps** on Google Play under [SensiStudio](https://play.google.com/store/apps/developer?id=SensiStudio).
+-  **Graduation Thesis:** Smartphone-powered, battery-free NFC Potentiostat (STM32 + ST25DV + Gemma 3 AI Agent, TÜBİTAK 2209-B Approved).
+-  **Interactive Case Studies:** [NFCPotentiostatQuickGlance](https://efeatesh.github.io/NFCPotentiostatQuickGlance/)
 
 </td>
 <td width="45%" valign="top">
 
-### ⚡ Verified Tooling & Stack
+###  Verified Tooling & Stack
 
 - **On-Device AI:** Gemma 3 (1B/4B), MediaPipe LLM, Microsoft Foundry, Local RAG, TFLite, CMSIS-NN
 - **Mobile & Architecture:** Kotlin, Jetpack Compose, Coroutines & Flow, USB Host (CDC/FTDI), Material 3
@@ -50,26 +50,26 @@
 
 ---
 
-### 🚀 Featured Highlights & Projects
+### Featured Highlights & Projects
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4 align="center">🧠 Foundry Local RAG</h4>
+      <h4 align="center"> Foundry Local RAG</h4>
       <p align="center">
         <img src="https://img.shields.io/badge/Microsoft-AI_Innovators_Internship-00A4EF?logo=microsoft" /><br/>
         Enterprise offline local RAG system running 100% on-device with zero cloud telemetry.
       </p>
     </td>
     <td width="33%" valign="top">
-      <h4 align="center">🔬 NFC Potentiostat (TÜBİTAK)</h4>
+      <h4 align="center"> NFC Potentiostat (TÜBİTAK 2209-B)</h4>
       <p align="center">
         <img src="https://img.shields.io/badge/Hardware-STM32_%2B_ST25DV-002B49" /><br/>
         Battery-free electrochemical instrumentation powered by smartphone NFC energy harvesting.
       </p>
     </td>
     <td width="33%" valign="top">
-      <h4 align="center">📱 Sensitify GO / Tranquile</h4>
+      <h4 align="center"> Sensitify GO / Tranquile</h4>
       <p align="center">
         <img src="https://img.shields.io/badge/Google_Play-Live_Apps-34A853?logo=google-play" /><br/>
         Real-time electrochemical plotting engine + on-device Gemma 3 guided meditation generator.
