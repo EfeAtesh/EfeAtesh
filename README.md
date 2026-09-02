@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Profile Views & Socials -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-efeates.com-0078D7?style=flat&logo=windows&logoColor=white)](https://efeatesh.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-efeates.com-0078D7?style=flat&logo=windows&logoColor=white)](https://efeatesh.github.io/Portfolio)
 [![Play Store](https://img.shields.io/badge/Google_Play-SensiStudio-34A853?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=SensiStudio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Efe_Ateş-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efeates/)
 [![Email](https://img.shields.io/badge/Email-efeates3300%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:efeates3300@gmail.com)
