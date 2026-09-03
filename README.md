@@ -84,7 +84,6 @@
 
 ### 📊 GitHub Activity & Metrics
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=EfeAtesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EfeAtesh&layout=compact&theme=tokyonight&hide_border=true" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EfeAtesh&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=161b22)](https://github.com/EfeAtesh)
 
 </div>
